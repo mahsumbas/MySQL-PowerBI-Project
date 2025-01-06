@@ -1,4 +1,4 @@
-# MySQL-PowerBI-Project
+# TransactiViz
 A comprehensive data analysis and visualization project using MySQL and Power BI.
 
 # MySQL & Power BI Project
